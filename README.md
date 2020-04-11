@@ -1,6 +1,6 @@
 # GraphBasedConnectivityClustering
 
-This is a Mathematica implementation of the clustering algorithm based on graph connectivity: Li, Y.-F., Lu, L.-H., & Hung, Y.-C. A New Clustering Algorithm Based on Graph Connectivity. 2019, in Intelligent Computing, ed. K. Arai,S. Kapoor, & R. Bhatia (Cham: Springer International Publishing), 442–454.
+This is a Mathematica implementation of the clustering algorithm based on graph connectivity by: Li, Y.-F., Lu, L.-H., & Hung, Y.-C. A New Clustering Algorithm Based on Graph Connectivity. 2019, in Intelligent Computing, ed. K. Arai,S. Kapoor, & R. Bhatia (Cham: Springer International Publishing), 442–454.
 
 This code was written in Mathematica v12.0.
 
